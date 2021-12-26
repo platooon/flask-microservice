@@ -12,6 +12,7 @@ With the help of the Dockerfile file, you can easily run it on any device, even 
 -  The following 2 libraries are used to parse the necessary website:
 
         - ```requests``` 
+        
         - ```BeautifulSoup```
 
 -  To create the Flash microservice itself, the library is used ```Flask``` 
