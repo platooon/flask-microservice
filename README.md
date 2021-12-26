@@ -3,6 +3,7 @@
 ##### This program allows you to get data in json format when running Python Flask microservice. 
 
 With the help of the Dockerfile file, you can easily run it on any device, even if there are no necessary libraries
+
 ---
 
 # **Built with**
@@ -10,8 +11,8 @@ With the help of the Dockerfile file, you can easily run it on any device, even 
 ##### To create our search engine, we used 3 libraries:
 -  The following 2 libraries are used to parse the necessary website:
 
-  -- ```requests``` 
-  -- ```BeautifulSoup```
+  - ```requests``` 
+  - ```BeautifulSoup```
 
 -  To create the Flash microservice itself, the library is used ```Flask``` 
 
